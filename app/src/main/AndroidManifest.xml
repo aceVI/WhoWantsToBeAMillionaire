@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.whowantstobeamillionaire">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.whowantstobeamillionaire.splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.whowantstobeamillionaire.winner" />
+        <activity android:name="com.example.whowantstobeamillionaire.question10" />
+        <activity android:name="com.example.whowantstobeamillionaire.question9" />
+        <activity android:name="com.example.whowantstobeamillionaire.question8" />
+        <activity android:name="com.example.whowantstobeamillionaire.question7" />
+        <activity android:name="com.example.whowantstobeamillionaire.question6" />
+        <activity android:name="com.example.whowantstobeamillionaire.question5" />
+        <activity android:name="com.example.whowantstobeamillionaire.question4" />
+        <activity android:name="com.example.whowantstobeamillionaire.question3" />
+        <activity android:name="com.example.whowantstobeamillionaire.question2" />
+        <activity android:name="com.example.whowantstobeamillionaire.lost" />
+        <activity android:name="com.example.whowantstobeamillionaire.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

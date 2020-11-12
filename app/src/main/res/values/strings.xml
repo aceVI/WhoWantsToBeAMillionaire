@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Who Wants to be a Millionaire?</string>
+
+    <string name="question1">A magnet would most likely attract which of the following?</string>
+    <string name="q1_answer1a">Metal</string>
+    <string name="q1_answer1b">Plastic</string>
+    <string name="q1_answer1c">Wood</string>
+    <string name="q1_answer1d">Diamond</string>
+
+    <string name="question2">Which Disney character famously leaves a glass slipper behind at a royal ball?</string>
+    <string name="q2_answer2a">Pocahontas</string>
+    <string name="q2_answer2b">Sleeping Beauty</string>
+    <string name="q2_answer2c">Cinderella</string>
+    <string name="q2_answer2d">Elsa</string>
+
+    <string name="question3">Which toys have been marketed with the phrase \"robots in disguise\"?</string>
+    <string name="q3_answer3a">Bratz Dolls</string>
+    <string name="q3_answer3b">Sylvanian Families</string>
+    <string name="q3_answer3c">Hatchimals</string>
+    <string name="q3_answer3d">Transformers</string>
+
+    <string name="question4">What does the word loquacious mean?</string>
+    <string name="q4_answer4a">Angry</string>
+    <string name="q4_answer4b">Chatty</string>
+    <string name="q4_answer4c">Beautiful</string>
+    <string name="q4_answer4d">Shy</string>
+
+    <string name="question5">Obstetrics is a branch of medicine particularly concerned with what?</string>
+    <string name="q5_answer5a">Childbirth</string>
+    <string name="q5_answer5b">Broken Bones</string>
+    <string name="q5_answer5c">Heart Condition</string>
+    <string name="q5_answer5d">Old Age</string>
+
+    <string name="question6">At the closest point, which island group is only 50 miles southeast of the coast of Florida?</string>
+    <string name="q6_answer6a">Bahamas</string>
+    <string name="q6_answer6b">U.S. Virgin Islands</string>
+    <string name="q6_answer6c">Turks and Caicos Islands</string>
+    <string name="q6_answer6d">Bermuda</string>
+
+    <string name="question7">Construction of which of these famous landmarks was completed first?</string>
+    <string name="q7_answer7a">Empire State Building</string>
+    <string name="q7_answer7b">Royal Albert Hall</string>
+    <string name="q7_answer7c">Eiffel Tower</string>
+    <string name="q7_answer7d">Big Ben Clock Tower</string>
+
+    <string name="question8">Which of these cetaceans is classified as a \"toothed whale\"?</string>
+    <string name="q8_answer8a">Gray Whale</string>
+    <string name="q8_answer8b">Minke Whale</string>
+    <string name="q8_answer8c">Sperm Whale</string>
+    <string name="q8_answer8d">Humpback Whale</string>
+
+    <string name="question9">Which of these brands was chiefly associated with the manufacturer of household locks?</string>
+    <string name="q9_answer9a">Phillips</string>
+    <string name="q9_answer9b">Flymo</string>
+    <string name="q9_answer9c">Chubb</string>
+    <string name="q9_answer9d">Ronseal</string>
+
+    <string name="question10">In 1718, which pirate died in battle off the coast of what is now North Carolina?</string>
+    <string name="q10_answer10a">Calico Jack</string>
+    <string name="q10_answer10b">Blackbeard</string>
+    <string name="q10_answer10c">Captain Jack Sparrow</string>
+    <string name="q10_answer10d">Captain Kidd</string>
+
+
+    <string name="millionaire">You have won $1 MILLION Congratulations!!</string>
+    <string name="game_over">Game Over!</string>
+</resources>
